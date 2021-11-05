@@ -1,0 +1,99 @@
+.colorBlack {
+    background-color: black;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.colorGray {
+    color: gray;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.nav-link{
+    color: rgb(202, 202, 202) !important;
+    font-size: small;
+}
+
+.active .nav-link{
+    color: #fff !important;
+    font-weight: 500;
+}
+
+.navbar-brand{
+    width: 100px;
+}
+
+.nav-icons{
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.navbar-toggler{
+    border-color: white;
+        /* color: white !important; */
+    background-color: rgb(248, 248, 248);
+}
+
+.avatar-btn{
+    background-color: transparent;
+    border: none;
+    margin-left: 7px;
+}
+
+
+
+.small-avatar-img{
+    height: 28px;
+
+}
+
+.dropdown-menu-dark{
+    background-color:rgb(82, 82, 82);
+}
+
+.dropdown-menu-dark a{
+    color: rgb(192, 192, 192);
+}
+
+.avatar-dropdown{
+    margin-left: -93px;
+    margin-top: 5px;
+}
+
+.btn1 {
+    font-size: 12px;
+    border: none;
+    background-color: rgb(213, 214, 216);
+    padding: .25rem;
+    padding-left: 22px;
+    padding-right: 22px;
+    box-shadow: 1px 2px rgb(179, 178, 178);
+}
+
+.hr {
+    height: 10px;
+    color: black;
+}
+
+h5 {
+    font-size: 16px;
+    color: #757575;
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.line {
+    line-height: 6px;
+}
+
+.row-space {
+    justify-content: space-between;
+}
